@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abhishek Londhe</h1>
-<h3 align="center">A passionate Full Stack and GenAi developer from India</h3>
+<h1 align="center">Hi 👋, I'm Abhishek Arjun Londhe</h1>
+<h3 align="center">🚀 Passionate Full Stack & GenAI Developer from 🇮🇳 | 💻 Building scalable apps | 🤖 Exploring AI & ML | 🔥 Problem solver | 🎯 Always learning & innovating 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekl131&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekl131" /> </p>
 
